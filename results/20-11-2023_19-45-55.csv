@@ -1,0 +1,6 @@
+,,Output Data,Output Data,Output Data,Output Data,Output Data,Confidence Score,Confidence Score,Confidence Score,Confidence Score,Confidence Score,
+,Filename,Far Below Average,Below Average,Average,Above Average,Far Above Average,Far Below Average,Below Average,Average,Above Average,Far Above Average,Weighted Score
+0,TCT16A_9.jpg,241.0,4.0,2.0,4.0,6.0,93.77431906614785,1.556420233463035,0.7782101167315175,1.556420233463035,2.3346303501945527,1.1712062256809337
+1,TCT2A_22.jpg,78.0,22.0,78.0,41.0,36.0,30.58823529411765,8.627450980392156,30.58823529411765,16.07843137254902,14.117647058823529,2.7450980392156863
+2,TCT49A_5.jpg,228.0,8.0,9.0,4.0,7.0,89.0625,3.125,3.515625,1.5625,2.734375,1.2578125
+3,TCT9A_29.jpg,24.0,40.0,51.0,66.0,75.0,9.375,15.625,19.921875,25.78125,29.296875,3.5
